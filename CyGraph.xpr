@@ -135,6 +135,50 @@
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
       </File>
+      <File Path="$PSRCDIR/sources_1/imports/coregen/fifo_generator_32_512.ngc">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../source/RCL/parallelCyGraph/coregen/fifo_generator_32_512.ngc"/>
+          <Attr Name="ImportTime" Val="1569465920"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="implementation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/imports/coregen/fifo_generator_64_512.ngc">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../source/RCL/parallelCyGraph/coregen/fifo_generator_64_512.ngc"/>
+          <Attr Name="ImportTime" Val="1569465920"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="implementation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/imports/coregen/fifo_generator_64_512.vhd">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../source/RCL/parallelCyGraph/coregen/fifo_generator_64_512.vhd"/>
+          <Attr Name="ImportTime" Val="1569465920"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/imports/coregen/fifo_generator_32_512.vhd">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../source/RCL/parallelCyGraph/coregen/fifo_generator_32_512.vhd"/>
+          <Attr Name="ImportTime" Val="1569465920"/>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/imports/coregen/instantiation code/fifo_generator_64_512.vho">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../source/RCL/parallelCyGraph/coregen/instantiation code/fifo_generator_64_512.vho"/>
+          <Attr Name="ImportTime" Val="1569465920"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/imports/coregen/instantiation code/fifo_generator_32_512.vho">
+        <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../source/RCL/parallelCyGraph/coregen/instantiation code/fifo_generator_32_512.vho"/>
+          <Attr Name="ImportTime" Val="1569465920"/>
+        </FileInfo>
+      </File>
       <Config>
         <Option Name="DesignMode" Val="RTL"/>
         <Option Name="TopModule" Val="cygraph"/>
